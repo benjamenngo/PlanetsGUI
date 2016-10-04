@@ -25,7 +25,7 @@ public class PlanetsGUI extends Application {
     private double planetWeight;
     private String result;
     DecimalFormat forma = new DecimalFormat("#.#");// formats the data to have only 1 decimal place
-    @Override // overrides method to catch mistakes? Not 100% what it does 
+    @Override
     public void start(Stage primaryStage) {
         
         
